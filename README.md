@@ -1,6 +1,6 @@
 ### Hi there 👋
+Welcome to my personal GitHub account, a vault of all my surviving projects. 
 
-- I'm currently a student of computer science.
-- I'm learning ASP.NET Blazor, since I am aiming to work more with backend technologies in the future!
-- I'm currently working on a simple Pizza Website using Blazor Server.
-  
+Here’s a little about myself:
+- I'm currently a master’s student in Computer Science with a strong interest in technology, system design, and computer networking.
+- I’m learning ASP.NET to deepen my knowledge in back-end development.
